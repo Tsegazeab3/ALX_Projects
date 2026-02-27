@@ -1,0 +1,9 @@
+[submodule "alx-higher_level_programming"]
+	path = alx-higher_level_programming
+	url = https://github.com/Tsegazeab3/alx-higher_level_programming
+[submodule "alx-low_level_programming"]
+	path = alx-low_level_programming
+	url = https://github.com/Tsegazeab3/alx-low_level_programming
+[submodule "alx-system_engineering-devops"]
+	path = alx-system_engineering-devops
+	url = https://github.com/Tsegazeab3/alx-system_engineering-devops
